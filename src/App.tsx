@@ -1181,8 +1181,7 @@ export function App() {
           className="mt-10 flex flex-col items-start justify-between gap-4 border-t border-slate-200/60 pt-6 text-xs text-slate-500 md:flex-row md:items-center"
         >
           <div>
-            Delivered as a client-ready research app. Replace placeholder copy
-            with your brand voice as needed.
+            Delivered as Instagram Specific targeted research. Let's work together! 
           </div>
           <div className="inline-flex items-center gap-2 text-violet-600">
             <Sparkles className="h-4 w-4" />
