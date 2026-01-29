@@ -1185,7 +1185,7 @@ export function App() {
           </div>
           <div className="inline-flex items-center gap-2 text-violet-600">
             <Sparkles className="h-4 w-4" />
-            Liquid-glass UI • Smooth gradients • Clean layout
+            craisher@gmail.com
           </div>
         </motion.div>
       </div>
